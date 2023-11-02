@@ -1,16 +1,17 @@
 # weather_app
+WeatherNow, a cutting-edge weather app built with Flutter, powered by a reliable weather API, and leveraging the efficient BLoC pattern. It fetch the location of the use and offers real-time weather information, keeping you updated on weather conditions, no matter where you are.
 
-A new Flutter project.
+Key Features:
 
-## Getting Started
+> Accurate Data
+> Location-Based Forecast
+> Interactive Visuals
+> Daily Sunrise and Sunset time
+> Details about Lowest Temperature and Highest Temperate
+> User-Friendly Design
+> BLoC Architecture
+> Customization
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
